@@ -9,7 +9,7 @@ A **React-based Kanban Board Application** designed to dynamically group and sor
 - **Name:** Utkarsh Raj
 - **Roll Number:** 21BCS229
 - **College Email:** [21bcs229@iiitdmj.ac.in](mailto:21bcs229@iiitdmj.ac.in)
-- **Hosted Site:** [View Project Here](#)
+- **Hosted Site:** [View Project Here](https://quicksellutkarsh.netlify.app/)
 
 ---
 
